@@ -1954,7 +1954,7 @@ section {
     bottom: 0;
     left: 0;
     right: 0;
-    height: calc(50% + 20px);
+    height: calc(60% + 20px);
     background-color: #fff;
   }
 }
